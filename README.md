@@ -4,14 +4,14 @@
 - 📅 Age : *Undefined*
 - 🌱 Learning : **Rust 🦀** and **Low  Level programming**
 - 👨‍💻 Projects : ***Timed Out...***
-- 🌐 Blog : https://r4in.xyz
-- 📫 Email : contact@r4in.xyz
 - 🔑 brb...
 
 
 ## My links
-- 💀Root-ME: https://www.root-me.org/r4in_
-- 🐘Mastodon: @r4in@defcon.social
+- 💀Root-ME: [https://www.root-me.org/r4in_](https://www.root-me.org/r4in_)
+- 🐘Mastodon: [@r4in@defcon.social](https://defcon.social/@r4in)
+- 🌐 Blog : [https://r4in.xyz](https://r4in.xyz)
+- 📫 Email : [contact@r4in.xyz](mailto:contact@r4in.xyz)
 
 ## Stuff I'm familiar with :
 ### Programming / Scripting
