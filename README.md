@@ -1,33 +1,27 @@
+```
+            __..--''``---....___   _..._    __
+            /// //_.-'    .-/";  `        ``<._  ``.''_ `. / // /
+            ///_.-' _..--.'_    \                    `( ) ) // //
+            / (_..-' // (< _     ;_..__               ; `' / ///
+                / // // //  `-._,_)' // / ``--...____..-' /// / //
+```
+
 # Hi there 👋, I'm r4in_
-### A cybersecurity student and Linux 🐧 enjoyer
 
-- 📅 Age : *Undefined*
-- 🌱 Learning : **Rust 🦀** and **Low  Level programming**
-- 👨‍💻 Projects : ***Timed Out...***
-- 🔑 brb...
+🎓 I'm a Cybersecurity student and Linux 🐧 enjoyer   
+🌍 Based in France 🥖   
+💡 Interested in Cybersecurity, Low level, IoT, ...  
+🔑 Need some privacy ? Everyone does, here is my [key](https://keys.openpgp.org/search?q=contact%40r4in.xyz).
 
+---
 
-## My links
-- 💀Root-ME: [https://www.root-me.org/r4in_](https://www.root-me.org/r4in_)
-- 🐘Mastodon: [@r4in@defcon.social](https://defcon.social/@r4in)
-- 🌐 Blog : [https://r4in.xyz](https://r4in.xyz)
-- 📫 Email : [contact@r4in.xyz](mailto:contact@r4in.xyz)
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01xR4in&layout=compact&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=01xR4in&show_icons=true&theme=radical)  
 
-## Stuff I'm familiar with :
-### Programming / Scripting
-<p align="left"> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a> 
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-</p>
+---
 
-### DevOps Stuff
-<p align="left"> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
-    <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a> 
-</p>
+### 📫 How to reach ?
+- 📧 Via Email -  contact[at]r4in[dot]xyz 
+- 🌐 Blog - [https://r4in.xyz](https://r4in.xyz)  
+- 🐘Mastodon - [@r4in@defcon.social](https://defcon.social/@r4in)
